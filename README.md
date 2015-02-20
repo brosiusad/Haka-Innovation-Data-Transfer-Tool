@@ -1,5 +1,10 @@
 # Haka Innovation Data Transfer Tool
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=brosiusad&repo=Haka-Innovation-Data-Transfer-Tool">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
 This is a tool that makes use of the [apex-sobjectdataloader](https://github.com/afawcett/apex-sobjectdataloader) project from [Andrew Fawcett](https://github.com/afawcett) to export and import data from/into a Salesforce instance in which has been installed the Haka "Innovation" app from [Haka Products](http://hakaproducts.com).  
 
 ## Usage
