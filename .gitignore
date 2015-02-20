@@ -1,0 +1,13 @@
+config
+deploy
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+.project
+.settings
+.DS_Store
+apex-scripts
+resource-bundles
+salesforce.schema
+build-*.properties
+build-*.xml
