@@ -27,6 +27,7 @@ public with sharing class HakaInnovationDataTransferTool {
         }
 
         // build studyType2RiskType map
+        studyType2RiskType = new Map<Id, Id>();
         for (String studyType : studyTypes.keySet()) {
             studyType2RiskType.put(studyTypes.get(studyType), riskTypes.get(studyType));
         }

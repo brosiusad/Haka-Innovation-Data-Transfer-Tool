@@ -185,7 +185,9 @@ public with sharing class SObjectDataLoader
                   'Feeds',
                   'RecordAssociatedGroups',
                   'CombinedAttachments',
-                  'AttachedContentDocuments'};
+                  'AttachedContentDocuments',
+                  'TopicAssignments',
+                  'DuplicateRecordItems'};
 
         // Standard RefernceTo that are not included when using the auto config
         private Set<String> referenceToWhitelist =
